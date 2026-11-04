@@ -19,8 +19,6 @@ body {
     line-height: 1.6;
     scroll-behavior: smooth;
 }
-
-/* Validação nativa exigida pelo professor (:user-invalid) */
 input:user-invalid, textarea:user-invalid {
     border: 2px solid var(--error-color);
 }
