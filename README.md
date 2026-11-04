@@ -40,7 +40,7 @@ portfolio-ihm/
 
 ### Opcão 1: Acesso Online (GitHub Pages)
 O projeto está publicado e acessível publicamente através do link:
-(https://github.com/gustavointersoft/projeto-portifolio-html.git)
+(https://gustavointersoft.github.io/projeto-portifolio-html/)
 
 ### Opção 2: Execução Local
 1. Clone este repositório para a sua máquina local:
