@@ -21,6 +21,7 @@ Tecnologias Utilizadas
 - **GitHub Pages**: Hospedagem da aplicação em ambiente de produção.
 
 ---
+site do projeto: https://gustavointersoft.github.io/projeto-portifolio-html/
 
 ##  Autor
 
